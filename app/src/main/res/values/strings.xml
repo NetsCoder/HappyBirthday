@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_text">Happy Birthday, Mak!!</string>
+    <string name="from_text">From Nets</string>
+    <string name="cup_cake">Cup cake</string>
 
 </resources>
